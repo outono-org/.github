@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-Somos empreendedores, programadores e designers que querem partilhar conhecimento com uma nova geração. Construimos ferramentas para desenvolver pessoas e o ecosistema tecnológico em Portugal e na Europa.
+Somos empreendedores, programadores e designers que querem partilhar conhecimento com uma nova geração. Fazemos curadoria de contéudo e construimos ferramentas para desenvolver pessoas e o ecosistema tecnológico em Portugal e na Europa.
 
 <!--
 
