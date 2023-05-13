@@ -1,4 +1,4 @@
-## Hello World 👋
+## Olá Portugal 👋
 
 Somos programadores e designers cometidos a aprender e a partilhar conhecimento. Fazemos curadoria de conteúdo e construímos ferramentas para desenvolver pessoas e o ecossistema tecnológico Português.
 <!--
